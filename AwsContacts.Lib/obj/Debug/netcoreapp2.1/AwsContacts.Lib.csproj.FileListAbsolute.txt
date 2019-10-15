@@ -1,0 +1,11 @@
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\bin\Debug\netcoreapp2.1\AwsContacts.Lib.deps.json
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\bin\Debug\netcoreapp2.1\AwsContacts.Lib.dll
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\obj\Debug\netcoreapp2.1\AwsContacts.Lib.csprojAssemblyReference.cache
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\obj\Debug\netcoreapp2.1\AwsContacts.Lib.AssemblyInfoInputs.cache
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\obj\Debug\netcoreapp2.1\AwsContacts.Lib.AssemblyInfo.cs
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\bin\Debug\netcoreapp2.1\AwsContacts.Lib.pdb
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\bin\Debug\netcoreapp2.1\AwsContacts.Contracts.dll
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\bin\Debug\netcoreapp2.1\AwsContacts.Contracts.pdb
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\obj\Debug\netcoreapp2.1\AwsContacts.Lib.csproj.CopyComplete
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\obj\Debug\netcoreapp2.1\AwsContacts.Lib.dll
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Lib\obj\Debug\netcoreapp2.1\AwsContacts.Lib.pdb

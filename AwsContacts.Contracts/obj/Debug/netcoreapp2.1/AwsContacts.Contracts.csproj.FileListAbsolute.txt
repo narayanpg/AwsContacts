@@ -1,0 +1,8 @@
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\bin\Debug\netcoreapp2.1\AwsContacts.Contracts.deps.json
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\bin\Debug\netcoreapp2.1\AwsContacts.Contracts.dll
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\bin\Debug\netcoreapp2.1\AwsContacts.Contracts.pdb
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\obj\Debug\netcoreapp2.1\AwsContacts.Contracts.csprojAssemblyReference.cache
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\obj\Debug\netcoreapp2.1\AwsContacts.Contracts.AssemblyInfoInputs.cache
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\obj\Debug\netcoreapp2.1\AwsContacts.Contracts.AssemblyInfo.cs
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\obj\Debug\netcoreapp2.1\AwsContacts.Contracts.dll
+D:\Narayan\y-mylessons\work\AwsContacts\AwsContacts.Contracts\obj\Debug\netcoreapp2.1\AwsContacts.Contracts.pdb

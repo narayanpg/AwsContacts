@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "AwsContacts.Lib/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.101.75",
+          "AwsContacts.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "AwsContacts.Lib.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.48": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.48"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.101.75": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.48"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.75"
+          }
+        }
+      },
+      "AwsContacts.Contracts/1.0.0": {
+        "runtime": {
+          "AwsContacts.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AwsContacts.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.48": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ltX0YbyTvGsR+69YLNnxO9l3isOh/ceoq7EwJsRqTB0a64qQh2kUtZV+enFxTsixDTlXfXBOzHVPjwLZ8wE4Dg==",
+      "path": "awssdk.core/3.3.103.48",
+      "hashPath": "awssdk.core.3.3.103.48.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.101.75": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zLmOqoHZIgAV08OxjFh/0WrZgRnGl4nwg5FwEXblBkmurrlpPdLSsCDv9CRMTASGmtae66/zrkHemKE4GCbh3w==",
+      "path": "awssdk.dynamodbv2/3.3.101.75",
+      "hashPath": "awssdk.dynamodbv2.3.3.101.75.nupkg.sha512"
+    },
+    "AwsContacts.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
